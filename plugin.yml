@@ -1,0 +1,10 @@
+name: BuildUHC
+version: 1.0
+api: [3.0.0-ALPHA12]
+main: Muhammed0232\BUHC\Base
+author: Muhammed0232
+website: www.Turksky.net
+
+commands:
+ buhc:
+  description: BuildUHC Command
